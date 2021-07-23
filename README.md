@@ -1,7 +1,11 @@
 Repository for the Ancient Star wiki, issue tracker, and a discussion board.
 
+[<img src="./screenshots/map-early-game.jpg" alt="Ancient Star early game galaxy map" width="50%" height="50%">](/screenshots/map-early-game.jpg)
+
+[Join beta test and play](https://play.google.com/apps/testing/com.ikcode.ancientstar1)  
+
 [Wiki](https://github.com/iktools/Ancient-Star/wiki)  
-[Known bugs](https://github.com/iktools/Ancient-Star/issues)  
+[Known bugs](https://github.com/iktools/Ancient-Star/issues)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/IvanKravarscan/5)
 
