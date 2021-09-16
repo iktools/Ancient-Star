@@ -16,8 +16,7 @@ Starting from your homeworld, explore the surrounding stars, expand through the 
 
 Ancient Star features a streamlined 4X experience. 
 - Do everything from the galaxy map
-- Give orders only when you want to change dire
-
-- No more jumping from one screen to another all the time, get information and give orders right from the galaxy map. 
-- Colonies can develop and be productive on their own, no need to micromanage them. Automatic space combat where the type of units matters as much as their numbers.
+- Give orders only when you want to change direction
+- No more jumping from one screen to another all the time, get information, and give orders right from the galaxy map. 
+- Colonies can develop and be productive on their own, no need to micromanage them.
 - Strategic space combat where the type of units matters as much as their number.
