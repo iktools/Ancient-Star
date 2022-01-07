@@ -5,7 +5,7 @@ Repository for the Ancient Star wiki, issue tracker, and a discussion board.
 [Join beta test and play](https://play.google.com/apps/testing/com.ikcode.ancientstar1)  
 
 [Wiki](https://github.com/iktools/Ancient-Star/wiki)  
-[Known bugs](https://github.com/iktools/Ancient-Star/issues)
+[Known bugs](https://github.com/iktools/Ancient-Star/issues)  
 [Privacy policy](https://iktools.github.io/privacy.htm)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/IvanKravarscan/5)
