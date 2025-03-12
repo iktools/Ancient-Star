@@ -5,6 +5,7 @@ Repository for the Ancient Star wiki, issue tracker, and a discussion board.
 [Download and play](https://play.google.com/store/apps/details?id=com.ikcode.ancientstar1)  
 
 [Discord](https://discord.gg/nc66tMS3ZD)  
+[Dev log](https://iktools.github.io/Ancient-Star/)  
 [Wiki](https://github.com/iktools/Ancient-Star/wiki)  
 [Known bugs](https://github.com/iktools/Ancient-Star/issues)  
 [Privacy policy](https://iktools.github.io/privacy.htm)
