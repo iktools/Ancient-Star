@@ -3,7 +3,6 @@ title: "Reconstruction queue"
 date: 2025-05-11
 ---
 
-# Reconstruction queue
 Turns out starting construction queue rewrite by making troopships repeatable was a good call. It introduced just enough problems of the right kind to warrant the rewrite. And again automated tests helped greatly at keeping the effort on track.
 
 # History
