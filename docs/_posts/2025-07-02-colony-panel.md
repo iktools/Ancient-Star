@@ -1,6 +1,6 @@
 ---
 title: "Colony panel"
-date: 2025-07-01
+date: 2025-07-12
 ---
 
 Digressions out of the smallest things continue. Well, this is mostly due to having a bunch of “firsts” that I have to figure out “how” before making it. To make a colony panel there first needs to be a general selection panel that hosts it and has a close button (and back to multiple selection, if there was any).
