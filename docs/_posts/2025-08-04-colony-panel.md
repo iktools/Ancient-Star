@@ -1,6 +1,7 @@
 ---
 title: "Colony panel finished"
 date: 2025-08-04
+image: /Ancient-Star/assets/2025-08-04-colony-panel.png
 ---
 
 Finally! Well, there are still “i”s to dot and “T”s to cross, most notably tutorial mode hooks and general GUI style. But it’s good enough to move on to some other functionality. I’m still surprised with how much functionality there is on the colony panel.
