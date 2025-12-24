@@ -1,6 +1,6 @@
 ---
 title: "News screen"
-date: 2025-11-30
+date: 2025-12-24
 image: /assets/2025-12-24_breaking_news.png
 ---
 
