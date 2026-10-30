@@ -8,7 +8,7 @@ image: /assets/2026-10-30-v4-0-release.png
 
 It took way too long (4 years) but the rewrite is finally done. Thank you for your patience!
 
-[Play Store](https://play.google.com/store/apps/details?id=com.ikcode.ancientstar1)
+[Play Store](https://play.google.com/store/apps/details?id=com.ikcode.ancientstar1)  
 [itch.io](https://iktools.itch.io/ancient-star)
 
 So what is new? Brand new look, more or less, sounds, music, and animation. The new framework made it much easier to integrate multimedia for negligible performance cost. The old “framework”, raw canvas drawing, was straining weaker devices if there were too many shapes to draw. It’s like polygon count issues for 3D hardware accelerated games but instead of million polygons per frame we are talking a few hundreds of curves per frame. Nebulas were supposed to be made of 50 up and down curves and had to scale it back to flat lines. In the new framework the curves are back because it’s all one image so whatever is drawn on it costs the same. Similar story for fleet paths, they were a dashed line before to save on shape count and now are animated arrows clearly conveying the direction.
